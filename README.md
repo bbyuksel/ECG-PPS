@@ -1,8 +1,9 @@
 # ECG-PPS: Real-Time ECG Monitoring and Analysis System
 
 <img src="assets/logo.png" alt="Project Logo" width="200"/>
- <!-- Add your project logo here -->
-
+ 
+## Introduction
+This work is accepted at the SINCONF 2024
 ## Overview
 This project implements a real-time ECG monitoring system using Fully Homomorphic Encryption (FHE) for privacy-preserving analysis. The system captures ECG signals, encrypts them, and stores them securely while enabling real-time visualization and disease detection.
 
