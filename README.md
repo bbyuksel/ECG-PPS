@@ -1,6 +1,6 @@
 # ECG-PPS: Real-Time ECG Monitoring and Analysis System
 
-![Project Logo]<img src="assets/logo.png" alt="Project Logo" width="200"/>
+![Project Logo](<img src="assets/logo.png" alt="Project Logo" width="200"/>)
  <!-- Add your project logo here -->
 
  
